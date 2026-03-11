@@ -1,0 +1,31 @@
+## 🚀 PROJETO DE PORTFÓLIO
+
+**PROJETO:** Aplicação de Gestão de Contratos Habitacionais  
+
+### 📌 O QUE FAZER
+Criar uma aplicação web completa (front-end + back-end) que permita ao usuário cadastrar, consultar, editar e excluir contratos habitacionais de pessoa física.  
+
+### 📦 ENTREGÁVEIS
+- **Front-end responsivo** em React (ou Angular) com telas de login, cadastro e listagem de contratos  
+- **API REST** em Node.js ou Spring Boot para operações CRUD (Create, Read, Update, Delete)  
+- **Banco de dados relacional** (MySQL ou PostgreSQL) para armazenar os contratos  
+- **Documentação** clara no GitHub explicando como rodar o projeto  
+
+### ✅ CRITÉRIOS DE ACEITAÇÃO
+- Usuário consegue criar, editar e excluir contratos com feedback visual  
+- Interface intuitiva e responsiva (funciona bem em desktop e mobile)  
+- Código versionado no GitHub com commits organizados  
+- README com instruções de instalação e uso  
+
+### 💡 DICA PRÁTICA
+Aproveite sua experiência prévia em **negociação de contratos** para definir regras de negócio realistas. Por exemplo:  
+- Campos obrigatórios (nome, CPF, valor do contrato, prazo)  
+- Validações (CPF válido, valores positivos)  
+- Status do contrato (ativo, encerrado, em negociação)  
+
+Isso vai dar autenticidade ao projeto e mostrar que você sabe aplicar conhecimento do mundo real em tecnologia.  
+
+---
+
+Esse projeto será seu **cartão de visitas** para entrevistas, pois demonstra domínio de front-end, back-end e banco de dados — exatamente o que empresas buscam em desenvolvedores iniciantes.  
+
