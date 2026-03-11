@@ -1,0 +1,65 @@
+## 🛠️ Estrutura Inicial do Projeto
+
+1. **Criar repositório no GitHub**  
+   - Nome: `gestao-contratos-habitacionais`  
+   - Adicione um README inicial com descrição do projeto.  
+
+2. **Configurar o Front-end (React)**  
+   - Crie o projeto com `npx create-react-app frontend`  
+   - Estruture pastas:  
+     - `src/components` → componentes reutilizáveis  
+     - `src/pages` → telas principais (Login, Cadastro, Listagem)  
+     - `src/services` → chamadas à API  
+
+3. **Configurar o Back-end (Node.js ou Spring Boot)**  
+   - Crie pasta `backend`  
+   - Estruture:  
+     - `routes/` → endpoints da API  
+     - `controllers/` → lógica de cada rota  
+     - `models/` → definição dos contratos (campos: nome, CPF, valor, prazo, status)  
+     - `config/` → conexão com banco de dados  
+
+4. **Banco de Dados (PostgreSQL ou MySQL)**  
+   - Crie tabela `contratos` com colunas:  
+     - `id` (PK)  
+     - `nome_cliente`  
+     - `cpf`  
+     - `valor`  
+     - `prazo`  
+     - `status`  
+
+---
+
+## 📅 Passo a Passo de Desenvolvimento
+
+**Semana 5:**  
+- Configurar repositório e ambiente (Node.js, React, banco de dados).  
+- Criar estrutura inicial do front-end e back-end.  
+
+**Semana 6:**  
+- Implementar CRUD no back-end (contratos).  
+- Testar API com Postman ou Insomnia.  
+
+**Semana 7:**  
+- Criar telas no front-end: Login, Cadastro de Contratos, Listagem.  
+- Conectar front-end ao back-end via API REST.  
+
+**Semana 8:**  
+- Implementar validações (CPF válido, valores positivos).  
+- Melhorar interface com feedback visual (mensagens de sucesso/erro).  
+
+**Semana 9-10:**  
+- Documentar projeto no README.  
+- Publicar no GitHub com instruções de instalação.  
+
+---
+
+## 🎯 Dicas Extras
+
+- Use **GitHub Projects** para organizar tarefas (Kanban).  
+- Faça commits pequenos e descritivos (ex.: `feat: criar endpoint de cadastro`).  
+- Teste cada funcionalidade antes de avançar para a próxima.  
+- Se possível, publique o front-end no **Vercel** e o back-end no **Render** para mostrar online.  
+
+---
+
