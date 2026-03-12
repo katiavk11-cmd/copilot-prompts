@@ -1,0 +1,44 @@
+Aqui está um **cronograma prático de estudos e atividades semanais** para apoiar seu plano de desenvolvimento rumo ao nível Sênior em Back-End Java:  
+
+---
+
+### 📅 Cronograma Semanal (12 semanas iniciais)
+
+**Segunda-feira – Fundamentos e prática Java/Spring Boot**  
+- 1h: Revisão de conceitos avançados de Java (Streams, Concurrency, Design Patterns).  
+- 1h: Exercícios práticos com **Spring Boot** (criação de APIs REST).  
+
+**Terça-feira – Banco de dados e otimização**  
+- 1h: Estudo de modelagem relacional e índices.  
+- 1h: Prática com queries complexas em PostgreSQL ou MySQL.  
+
+**Quarta-feira – Microsserviços e arquitetura distribuída**  
+- 1h: Leitura/curso sobre **Spring Cloud** e padrões de microsserviços.  
+- 1h: Implementação de um pequeno projeto com comunicação entre serviços.  
+
+**Quinta-feira – DevOps e CI/CD**  
+- 1h: Estudo de pipelines com GitHub Actions ou Jenkins.  
+- 1h: Configuração de deploy automatizado em ambiente de teste.  
+
+**Sexta-feira – Soft skills e liderança técnica**  
+- 30 min: Prática de comunicação técnica (documentar uma solução).  
+- 30 min: Exercício de negociação/empatia (role-play ou estudo de caso).  
+- 1h: Mentoria informal (explicar conceitos a colegas ou simular).  
+
+**Sábado – Projeto prático / Open Source**  
+- 2h: Contribuição em projeto open source ou desenvolvimento de um sistema pessoal (ex.: API de contratos, e-commerce simples).  
+
+**Domingo – Revisão e reflexão**  
+- 1h: Revisar aprendizados da semana.  
+- 30 min: Planejar ajustes para a semana seguinte.  
+
+---
+
+### 🎯 Checkpoints
+- **Semana 4:** Ter uma API completa em Spring Boot com banco de dados integrado.  
+- **Semana 8:** Criar um protótipo de microsserviço com comunicação entre serviços e mensageria (Kafka ou RabbitMQ).  
+- **Semana 12:** Ter um pipeline CI/CD funcional e documentar um case técnico para portfólio.  
+
+---
+
+👉 Esse cronograma é flexível: você pode ajustar tempos conforme sua disponibilidade.  
