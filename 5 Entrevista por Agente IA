@@ -1,0 +1,101 @@
+Aqui está a entrevista completa organizada em formato de **transcrição** para você incluir no GitHub, como parte do seu README ou em um arquivo separado (`ENTREVISTA.md`).  
+
+---
+
+```markdown
+# 🎤 Entrevista Técnica – Desenvolvedor Back-End Java Pleno
+
+## Introdução
+Olá, Katia! Vejo que você trouxe um guia bem estruturado para entrevistas técnicas em vagas de tecnologia. Vamos começar seguindo esse modelo.
+
+---
+
+### Pergunta 1
+**Entrevistador:** Qual é o título da vaga e qual o propósito principal desse cargo?  
+**Candidata:** Desenvolvedor Back-End Java  
+
+---
+
+### Pergunta 2
+**Entrevistador:** Qual a senioridade esperada para essa posição e por que esse nível é necessário?  
+**Candidata:** Pleno  
+
+---
+
+### Pergunta 3
+**Entrevistador:** Quais tecnologias, frameworks e práticas são essenciais para essa posição?  
+**Candidata:**  
+- **CORE SKILLS (essenciais):**  
+  - Lógica de programação  
+  - Estruturas de dados e algoritmos  
+  - Desenvolvimento web (HTML, CSS, JavaScript)  
+
+- **NICE-TO-HAVE (complementares):**  
+  - Noções de banco de dados  
+  - Git/GitHub para versionamento  
+
+- **FERRAMENTAS E TECNOLOGIAS:**  
+  - Python e Java (já conhecidos)  
+  - Node.js ou Spring Boot (back-end)  
+  - React ou Angular (front-end)  
+
+---
+
+### Pergunta 4
+**Entrevistador:** Quais comportamentos ou atitudes (soft skills) são mais valorizados para essa posição?  
+**Candidata:** Comunicação, Trabalho em equipe, Resolução de problemas, Gestão de tempo, Adaptabilidade, Empatia, Pensamento crítico, Inteligência emocional, Proatividade, Negociação  
+
+---
+
+## 📌 Resumo Analítico da Vaga
+- **Título da vaga:** Desenvolvedor Back-End Java Pleno  
+- **Propósito:** Atuar no desenvolvimento e manutenção de soluções back-end, garantindo eficiência, escalabilidade e integração com sistemas front-end.  
+- **Senioridade:** Pleno — necessário para lidar com desafios técnicos de média complexidade, autonomia em projetos e colaboração multidisciplinar.  
+- **Stack técnico:**  
+  - Core skills: Lógica de programação, estruturas de dados e algoritmos, desenvolvimento web (HTML, CSS, JavaScript).  
+  - Nice-to-have: Banco de dados, Git/GitHub.  
+  - Ferramentas: Java, Python, Node.js/Spring Boot, React/Angular.  
+- **Soft skills valorizados:** Comunicação, trabalho em equipe, resolução de problemas, gestão de tempo, adaptabilidade, empatia, pensamento crítico, inteligência emocional, proatividade e negociação.  
+
+---
+
+# 🎤 Entrevista Simulada – Candidata Katia
+
+### Pergunta 1
+**Entrevistador:** Você mencionou experiência com Java e Python. Poderia me contar sobre um projeto em que utilizou Java para resolver um problema complexo no back-end?  
+**Candidata:** Criação de aplicação web onde usuários podem cadastrar, consultar e gerenciar contratos habitacionais. O desafio foi definir o padrão de design apropriado e implementá-lo corretamente, superado com estudo profundo do contexto do problema e da estrutura do padrão.  
+
+---
+
+### Pergunta 2
+**Entrevistador:** Em projetos de back-end, a performance e a escalabilidade são pontos cruciais. Como você costuma abordar problemas de otimização de consultas em banco de dados ou de performance em APIs?  
+**Candidata:** Devem ser abordados de forma sistemática, porque muitas vezes o gargalo não está onde inicialmente se imagina. A estratégia geralmente envolve medição → diagnóstico → otimização → validação.  
+
+---
+
+### Pergunta 3
+**Entrevistador:** Em ambientes colaborativos, conflitos de ideias ou prioridades podem surgir. Pode me contar sobre uma situação em que houve divergência dentro da equipe e como você utilizou suas soft skills para chegar a uma solução?  
+**Candidata:** Divergências por interpretações técnicas distintas, sendo usados dados para reduzir os conflitos, propor soluções colaborativas, escuta ativa, comunicação clara e objetiva.  
+
+---
+
+### Pergunta 4
+**Entrevistador:** Pensando em sua rotina de trabalho, como você organiza suas tarefas para garantir gestão de tempo eficiente e evitar sobrecarga, especialmente quando há múltiplas demandas simultâneas?  
+**Candidata:** Organizar tarefas para garantir gestão eficiente do tempo e evitar sobrecarga exige combinar planejamento, priorização e controle do fluxo de trabalho. A chave é estruturar as atividades de forma que o volume de trabalho seja visível e gerenciável.  
+
+---
+
+### Pergunta 5
+**Entrevistador:** Pensando em sua evolução profissional, quais seriam seus principais objetivos de carreira nos próximos anos e como essa vaga se conecta a eles?  
+**Candidata:** Nos próximos anos quero me aprofundar no desenvolvimento backend em Java, principalmente em arquitetura de APIs e microsserviços. Meu objetivo é evoluir tecnicamente, trabalhar com sistemas escaláveis e participar mais das decisões de arquitetura. A vaga de Desenvolvedor Back-End Java Pleno se conecta diretamente com isso, porque me permitiria atuar em projetos mais complexos, aplicar boas práticas de engenharia de software e continuar evoluindo dentro do ecossistema Java. Evoluir para papéis de maior responsabilidade.  
+
+---
+
+## ✅ Conclusão
+A candidata demonstrou:  
+- **Domínio técnico** em Java e padrões de design.  
+- **Abordagem sistemática** para otimização de performance.  
+- **Soft skills sólidas** em comunicação, empatia e negociação.  
+- **Clareza de objetivos de carreira**, alinhados com a vaga.  
+
+Impressão geral: candidata preparada para assumir responsabilidades de nível **Pleno**, com potencial de evolução para **Sênior/Tech Lead**.  
